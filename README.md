@@ -14,8 +14,23 @@
    <a href="https://miktadozturk.medium.com/" rel="nofollow"> 
   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge">
   </a>
- </p>
- 
+
+ <h1>
+   <p align="center" dir="auto">hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   </p>
+</h1>
+
+### :man_technologist: About Me :
+I am QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany
+
+🔭 I’m currently working as a QA Engineer
+
+🌱 I’m currently learning new technologies and tools 
+
+⚡ In my free time I can create video content for my [YouTube](https://www.youtube.com/@miktadozturk) channel and write a tech articles.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miktadozturk) DM
 
 
 <!--
@@ -23,7 +38,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
