@@ -4,7 +4,7 @@
 <p align="center" dir="auto"></p>
 <p align="center" dir="auto">
 
- <a href="https://www.youtube.com/@miktadozturk" rel="nofollow"> 
+ <a href="https://www.youtube.com/MiktadOzturk" rel="nofollow"> 
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
   </a>
   
@@ -27,7 +27,7 @@ I am QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 💬 Ask me about **Cypress**
 
-⚡ In my free time I can create video content for my **[YouTube](https://www.youtube.com/@miktadozturk) channel and write a tech articles.**
+⚡ In my free time I can create video content for my **[YouTube](https://www.youtube.com/MiktadOzturk) channel and write a tech articles.**
 
 ---
 
